@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surya4032
-- 👀 I’m interested in Web-Application and python application development
-- 🌱 I’m currently learning Front-End Development
+- 👀 Proficient  in Web-Application and python application development
+  
 - 💞️ I’m looking to collaborate on open-source
 - 📫 How to reach me https://www.linkedin.com/in/surya-tummala...
 - 😄 Pronouns: ...
