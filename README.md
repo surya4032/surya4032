@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surya4032
+- 👋 Hi, I’m surya
 - 👀 Proficient  in Web-Application and python application development
   
 - 💞️ I’m looking to collaborate on open-source
